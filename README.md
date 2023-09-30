@@ -1,4 +1,4 @@
-This is the repository, which includes influenza related data comprising of multilingual annotated tweets gathered using the following keywords:
+This is the repository, which includes influenza related data comprising of multilingual annotated tweets gathered using the following keywords from Twitter:
 
 | Language | Main | Related to Influenza-Like-Illnesses | Verbs to express being sick | 
 | --- | --- | --- | --- |
