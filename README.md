@@ -1,4 +1,4 @@
-This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access). of multilingual annotated tweets gathered using the following keywords from Twitter. 
+This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access) between March to April 2023.
 
 **Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
 |                     | EN    | FR    | ES    | IT    | DE    |
