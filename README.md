@@ -17,7 +17,7 @@ This is the repository, which includes details on multilingual influenza infecti
 | ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of annotated sample      | 2018-09-15 to<br>2019-04-29 | 2011-01-01 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 |
 | No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3                           |
-| Test data set                        ||||||
+| Test data set                   ||||||
 | ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
 | Training data set                    ||
 | No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600                         |
