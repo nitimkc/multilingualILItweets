@@ -1,9 +1,9 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access). of multilingual annotated tweets gathered using the following keywords from Twitter. 
 
 **Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
-| No. of tweets       | 200  | 400  | 400  | 400  | 400  |
 |                     | EN   | FR   | ES   | IT   | DE   |
 | ------------------- | ---- | ---- | ---- | ---- | ---- |
+| No. of tweets       | 200  | 400  | 400  | 400  | 400  |
 | Annotator 1-2       | 0.95 | 0.80 | 0.75 | 0.77 | 0.80 |
 | Annotator 1-3       | 0.85 | 0.80 | 0.76 | 0.78 | 0.76 |
 | Annotator 2-3       | 0.83 | 0.79 | 0.82 | 0.71 | 0.76 |
@@ -12,12 +12,12 @@ This is the repository, which includes details on multilingual influenza infecti
 | Annotator 3-4       |      |      | 0.77 |      |	 |
 
 **Table. 3** : Details of annotated sample tweets in each language used in the study
+| No. of annotated sample              | 200                         | 400                         | 
 | ANNOTATION DETAILS                   | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE) |
 | ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ----------- |
 | Time period of annotated sample      | 2017-10-29 to<br>2019-04-29 | 2011-01-01 to<br>2023-04-11 | 2018-09-15 to<br>2023-03-23 | 2018-09-15 to<br>2023-03-29 |             |
 | No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3           |
 | Test data set                        |
-| No. of annotated sample              | 200                         | 400                         | 
 | ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %           |
 | Training data set                    |
 | No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600         |
