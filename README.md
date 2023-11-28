@@ -22,16 +22,68 @@ This is the repository, which includes details on multilingual influenza infecti
 | ILI vs non-ILI ratio (train set)     | -%                          | 43.0%                       | -%                          | 12.2%                       | 44.8%                       |
 			
 **Table. 2** : Description of data collected from Twitter in five European languages
-| DATA DESCRIPTION               | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE)                 |
-| ------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Time period of data collection | 2017-10-29 to<br>2019-04-29 | 2011-01-01 to<br>2023-04-11 | 2018-09-15 to<br>2023-03-23 | 2018-09-15 to<br>2023-03-29 | 2018-09-15 to<br>2023-04-11 |
-| Common time period             | 2018-09-15 to 2019-04-29    |
-| |||
-| No. of tweets                  | 1,376,095                   | 1,529,838                   | 1,425,592                   | 471,692                     | 185,346                     |
-| Monthly avg no. of tweets      | 114,675                     | 127,486                     | 118,799                     | 39,308                      | 15,445                      |
-| No. of tokens                  | 24,278,276                  | 316,93,212                  | 25,245,747                  | 10,777,503                  | 3,694,624                   |
-| No. of unique tokens           | 1,292,732                   | 1,111,799                   | 1,079,905                   | 475,888                     | 238,004                     |
-| Lexical diversity              | 18.78                       | 28.51                       | 23.38                       | 22.65                       | 15.52                       |
+<table>
+    <tr>
+        <td><b>DATA DESCRIPTION</b></td>
+        <td><b>English (EN)</b></td>
+        <td><b>French (FR)</b></td>
+        <td><b>Spanish (ES)</b></td>
+        <td><b>Italian (IT)</b></td>
+        <td><b>German (DE)</b></td>
+    </tr>
+    <tr>
+        <td>Time period of data collection</td>
+        <td>2017-10-29 to<br>2019-04-29</td>
+        <td>2011-01-01 to<br>2023-04-11</td>
+        <td>2018-09-15 to<br>2023-03-23</td>
+        <td>2018-09-15 to<br>2023-03-29</td>
+        <td>2018-09-15 to<br>2023-04-11</td>
+    </tr>
+    <tr>
+        <td>Common time period</td>
+        <td align="center", colspan="5">2018-09-15 to 2019-04-29</td>
+    </tr>
+    <tr>
+        <td>No. of tweets</td>
+        <td>1,376,095</td>
+        <td>1,529,838</td>
+        <td>1,425,592</td>
+        <td>471,692</td>
+        <td>185,346</td>
+    </tr>
+    <tr>
+        <td>Monthly avg no. of tweets</td>
+        <td>114,675</td>
+        <td>127,486</td>
+        <td>118,799</td>
+        <td>39,308</td>
+        <td>15,445</td>
+    </tr>
+    <tr>
+        <td>No. of tokens</td>
+        <td>24,278,276</td>
+        <td>316,93,212</td>
+        <td>25,245,747</td>
+        <td>10,777,503</td>
+        <td>3,694,624</td>
+    </tr>
+    <tr>
+        <td>No. of unique tokens</td>
+        <td>1,292,732</td>
+        <td>1,111,799</td>
+        <td>1,079,905</td>
+        <td>475,888</td>
+        <td>238,004</td>
+    </tr>
+    <tr>
+        <td>Lexical diversity</td>
+        <td>18.78</td>
+        <td>28.51</td>
+        <td>23.38</td>
+        <td>22.65</td>
+        <td>15.52</td>
+    </tr>
+</table>
 
 **Table. 1** : Keywords used to extract influenza related tweets in five European languages
 | Language | Main | Verbs to express being sick | Related to Influenza-Like-Illnesses |
