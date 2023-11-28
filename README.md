@@ -25,15 +25,15 @@ Cohen Kappa Score		19	29	23	23
 Common time period		2018-09-15 to 2019-04-29				
 
 **Table. 2** : Description of data collected from Twitter in five European languages
-|  | English (EN) | French (FR) | Spanish (ES) | Italian (IT) |	German (DE) |
+| T | English (EN) | French (FR) | Spanish (ES) | Italian (IT) | German (DE) |
 | --- | --- | --- | --- | --- | --- |
-Time period of data collection | 2017-10-29 to 2019-04-29 | 2011-01-01 to 2023-04-11 | 2018-09-15 to 2023-03-23 | 2018-09-15 to 2023-03-29 | 2018-09-15 to 2023-04-11 |
-No. of tweets | 1,376,095 | 1,529,838 | 1,425,592 | 471,692 | 185,346 | 
-Monthly avg no. of tweets | 114,675 | 127,486 | 118,799 | 39,308 | 15,445 | 
-Lexical diversity | 19 | 29 | 23 | 23 | 16 | 
-No. of tokens | 24,278,276 | 316,93,212 | 25,245,747 | 10,777,503 | 3,694,624 | 
-No. of unique tokens | 1,292,732 | 1,111,799 | 1,079,905 | 475,888 | 238,004 | 
-Common time period | 2018-09-15 to 2019-04-29 | 
+| Time period of data collection | 2017-10-29 to 2019-04-29 | 2011-01-01 to 2023-04-11 | 2018-09-15 to 2023-03-23 | 2018-09-15 to 2023-03-29 | 2018-09-15 to 2023-04-11 |
+| No. of tweets | 1,376,095 | 1,529,838 | 1,425,592 | 471,692 | 185,346 | 
+| Monthly avg no. of tweets | 114,675 | 127,486 | 118,799 | 39,308 | 15,445 | 
+| Lexical diversity | 19 | 29 | 23 | 23 | 16 | 
+| No. of tokens | 24,278,276 | 316,93,212 | 25,245,747 | 10,777,503 | 3,694,624 | 
+| No. of unique tokens | 1,292,732 | 1,111,799 | 1,079,905 | 475,888 | 238,004 | 
+| Common time period | 2018-09-15 to 2019-04-29 | 
 
 **Table. 1** : Keywords used to extract influenza related tweets in English, French, Spanish, Italian and German languages
 | Language | Main | Verbs to express being sick | Related to Influenza-Like-Illnesses |
