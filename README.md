@@ -33,7 +33,7 @@ Common time period		2018-09-15 to 2019-04-29
 | Lexical diversity | 19 | 29 | 23 | 23 | 16 | 
 | No. of tokens | 24,278,276 | 316,93,212 | 25,245,747 | 10,777,503 | 3,694,624 | 
 | No. of unique tokens | 1,292,732 | 1,111,799 | 1,079,905 | 475,888 | 238,004 | 
-| Common time period | 2018-09-15 to 2019-04-29 | 
+| Common time period || 2018-09-15 to 2019-04-29 ||
 
 **Table. 1** : Keywords used to extract influenza related tweets in English, French, Spanish, Italian and German languages
 | Language | Main | Verbs to express being sick | Related to Influenza-Like-Illnesses |
