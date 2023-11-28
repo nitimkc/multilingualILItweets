@@ -10,8 +10,7 @@ This is the repository, which includes details on multilingual influenza infecti
 | Annotator 2-4       |       |       | 0.77  |       |       |
 | Annotator 3-4       |       |       | 0.77  |       |	      |
 
-**Table. 3** : Details of annotated sample tweets in each language used in the study
-| No. of annotated sample              | 200                         | 400                         | 
+**Table. 3** : Details of annotated sample tweets in each language used in the study                      | 
 | ANNOTATION DETAILS                   | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE)                 |
 | ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of annotated sample      | 2018-09-15 to<br>2019-04-29 | 2011-01-01 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 |
