@@ -1,16 +1,15 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access). of multilingual annotated tweets gathered using the following keywords from Twitter. 
 
 **Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
-| Cohen's Kappa Score |
-| ------------------- |
-| No. of tweets       | 200 | 400 | 400 | 400 | 400 |
-|                     | EN | FR | ES | IT | DE |
+| No. of tweets       | 200  | 400  | 400  | 400  | 400  |
+|                     | EN   | FR   | ES   | IT   | DE   |
+| ------------------- | ---- | ---- | ---- | ---- | ---- |
 | Annotator 1-2       | 0.95 | 0.80 | 0.75 | 0.77 | 0.80 |
 | Annotator 1-3       | 0.85 | 0.80 | 0.76 | 0.78 | 0.76 |
 | Annotator 2-3       | 0.83 | 0.79 | 0.82 | 0.71 | 0.76 |
-| Annotator 1-4       |  |  | 0.71 |  |  |
-| Annotator 2-4       |  |  | 0.77 |  |  |
-| Annotator 3-4       |  |  | 0.77 |  |	
+| Annotator 1-4       |      |      | 0.71 |      |      |
+| Annotator 2-4       |      |      | 0.77 |      |      |
+| Annotator 3-4       |      |      | 0.77 |      |	 |
 
 **Table. 3** : Details of annotated sample tweets in each language used in the study
 | ANNOTATION DETAILS                   | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE) |
