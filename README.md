@@ -13,21 +13,21 @@ This is the repository, which includes details on multilingual influenza infecti
 
 **Table. 3** : Details of annotated sample tweets in each language used in the study
 | No. of annotated sample              | 200                         | 400                         | 
-| ANNOTATION DETAILS                   | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE) |
-| ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ----------- |
-| Time period of annotated sample      | 2017-10-29 to<br>2019-04-29 | 2011-01-01 to<br>2023-04-11 | 2018-09-15 to<br>2023-03-23 | 2018-09-15 to<br>2023-03-29 |             |
-| No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3           |
-| Test data set                        |
-| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %           |
-| Training data set                    |
-| No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600         |
-| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %           |
+| ANNOTATION DETAILS                   | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE)                 |
+| ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Time period of annotated sample      | 2018-09-15 to<br>2019-04-29 | 2011-01-01 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 |
+| No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3                           |
+| Test data set                        ||
+| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
+| Training data set                    ||
+| No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600                         |
+| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
 			
 **Table. 2** : Description of data collected from Twitter in five European languages
 | DATA DESCRIPTION               | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE)                 |
 | ------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of data collection | 2017-10-29 to<br>2019-04-29 | 2011-01-01 to<br>2023-04-11 | 2018-09-15 to<br>2023-03-23 | 2018-09-15 to<br>2023-03-29 | 2018-09-15 to<br>2023-04-11 |
-| Common time period             | 2018-09-15 to 2019-04-29    |
+| Common time period             | 2018-09-15 to 2019-04-29   ||
 | No. of tweets                  | 1,376,095                   | 1,529,838                   | 1,425,592                   | 471,692                     | 185,346                     |
 | Monthly avg no. of tweets      | 114,675                     | 127,486                     | 118,799                     | 39,308                      | 15,445                      |
 | No. of tokens                  | 24,278,276                  | 316,93,212                  | 25,245,747                  | 10,777,503                  | 3,694,624                   |
