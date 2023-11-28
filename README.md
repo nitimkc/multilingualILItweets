@@ -24,6 +24,8 @@ ILI vs non-ILI ratio		114,675	127,486	118,799	39,308
 Cohen Kappa Score		19	29	23	23	
 Common time period		2018-09-15 to 2019-04-29				
 
+```| Merged cell | Second cell | Third cell || ----------- | ----------- | ---------- || Content | Content | Content |```
+
 **Table. 2** : Description of data collected from Twitter in five European languages
 |     | English (EN) | French (FR) | Spanish (ES) | Italian (IT) | German (DE) |
 | --- | ------------ | ----------- | ------------ | ------------ | ----------- |
