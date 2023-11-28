@@ -1,9 +1,8 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access) between March to April 2023.
 
-**Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
+**Table. 4** : Interrater agreement as measured by Cohen's Kappa Score (in test set only)
 |                     | EN    | FR    | ES    | IT    | DE    |
 | ------------------- | ----- | ----- | ----- | ----- | ----- |
-| *No. of tweets*     | *200* | *400* | *400* | *400* | *400* |
 | Annotator 1-2       | 0.95  | 0.80  | 0.75  | 0.77  | 0.80  |
 | Annotator 1-3       | 0.85  | 0.80  | 0.76  | 0.78  | 0.76  |
 | Annotator 2-3       | 0.83  | 0.79  | 0.82  | 0.71  | 0.76  |
@@ -17,17 +16,17 @@ This is the repository, which includes details on multilingual influenza infecti
 | ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of annotated sample      | 2018-09-15 to<br>2019-04-29 | 2011-01-01 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 |
 | No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3                           |
-| Test data set||
-| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
-| Training data set                    ||
-| No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600                         |
-| ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
+| No. of annotated sample (test set)   | 200                         | 400                         | 400                         | 400                         | 400                         |
+| ILI vs non-ILI ratio (test set)      | -%                          | 39.5%                       | -%                          | 13.3%                       | 44.3%                       |
+| No. of annotated sample (train set)  | 0                           | 400                         | 800                         | 600                         | 600                         |
+| ILI vs non-ILI ratio (train set)     | -%                          | 43.0%                       | -%                          | 12.2%                       | 44.8%                       |
 			
 **Table. 2** : Description of data collected from Twitter in five European languages
 | DATA DESCRIPTION               | English (EN)                | French (FR)                 | Spanish (ES)                | Italian (IT)                | German (DE)                 |
 | ------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of data collection | 2017-10-29 to<br>2019-04-29 | 2011-01-01 to<br>2023-04-11 | 2018-09-15 to<br>2023-03-23 | 2018-09-15 to<br>2023-03-29 | 2018-09-15 to<br>2023-04-11 |
-| Common time period             | 2018-09-15 to 2019-04-29   ||
+| Common time period             | 2018-09-15 to 2019-04-29    |
+| |||
 | No. of tweets                  | 1,376,095                   | 1,529,838                   | 1,425,592                   | 471,692                     | 185,346                     |
 | Monthly avg no. of tweets      | 114,675                     | 127,486                     | 118,799                     | 39,308                      | 15,445                      |
 | No. of tokens                  | 24,278,276                  | 316,93,212                  | 25,245,747                  | 10,777,503                  | 3,694,624                   |
