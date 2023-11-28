@@ -1,5 +1,10 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access) between March to April 2023.
 
+| Cell1| Cell2 | Cell3 |
+|------|-------|-------|
+| merge right ||       |
+| merge|       |       |
+
 **Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
 |                     | EN    | FR    | ES    | IT    | DE    |
 | ------------------- | ----- | ----- | ----- | ----- | ----- |
