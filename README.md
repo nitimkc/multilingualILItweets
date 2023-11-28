@@ -1,5 +1,5 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access). of multilingual annotated tweets gathered using the following keywords from Twitter:
-
+[figure caption="**Table. 1** : Keywords used to extract influenza related tweets in English, French, Spanish, Italian and German languages"]
 | Language | Main | Verbs to express being sick | Related to Influenza-Like-Illnesses |
 | --- | --- | --- | --- |
 | English (EN) | Flu, Influenza | With,  Got,  Have,  Has,  Caught, "Down With",  Bunged,  "Under The Weather",  Man,  Gastro,  Stomach,  Lurgy,  Snotty | Fever, Feverish, Malaise, Chills, Shivering, Fatigue, Unwell, Sick, Ill, Headache, Body Ache, Stomach Flu, Cough, Coughing, Sore Throat, Shortness of Breath, Upper Respiratory, Cold, Congested, Stuffy Nose", "Runny Nose", Sneeze |
