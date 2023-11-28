@@ -1,12 +1,5 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access) between March to April 2023.
 
-**Table. 4** : test
-| Cell1| Cell2 | Cell3 |
-|------|-------|-------|
-| merge right ||       |
-| merge|       |       |
-
-
 **Table. 4** : Interrater agreement as measured by Cohen's Kappa Score						
 |                     | EN    | FR    | ES    | IT    | DE    |
 | ------------------- | ----- | ----- | ----- | ----- | ----- |
@@ -24,7 +17,7 @@ This is the repository, which includes details on multilingual influenza infecti
 | ------------------------------------ | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Time period of annotated sample      | 2018-09-15 to<br>2019-04-29 | 2011-01-01 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 | 2018-09-15 to<br>2023-03-15 |
 | No. of annotators                    | 3                           | 3                           | 4                           | 3                           | 3                           |
-| Test data set                   ||||||
+| Test data set||
 | ILI vs non-ILI ratio                 | %                           | %                           | %                           | %                           | %                           |
 | Training data set                    ||
 | No. of annotated sample              | 0                           | 400                         | 800                         | 600                         | 600                         |
