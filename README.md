@@ -1,6 +1,7 @@
 This is the repository, which includes details on multilingual influenza infection related data extracted from Twitter API v2 (via academic access). of multilingual annotated tweets gathered using the following keywords from Twitter. 
 
 **Table. 1** : Keywords used to extract influenza related tweets in English, French, Spanish, Italian and German languages
+
 <h6>
 | Language | Main | Verbs to express being sick | Related to Influenza-Like-Illnesses |
 | --- | --- | --- | --- |
